@@ -112,4 +112,4 @@ Point 96/100 r_ggH_pt200_300 = 9.3
 Point 97/100 r_ggH_pt200_300 = 9.5
 Point 98/100 r_ggH_pt200_300 = 9.7
 Point 99/100 r_ggH_pt200_300 = 9.9
-Done in 0.61 min (cpu), 0.61 min (real)
+Done in 0.64 min (cpu), 0.64 min (real)

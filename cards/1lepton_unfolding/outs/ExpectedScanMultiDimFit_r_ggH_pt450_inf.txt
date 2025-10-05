@@ -112,4 +112,4 @@ Point 96/100 r_ggH_pt450_inf = 9.3
 Point 97/100 r_ggH_pt450_inf = 9.5
 Point 98/100 r_ggH_pt450_inf = 9.7
 Point 99/100 r_ggH_pt450_inf = 9.9
-Done in 0.66 min (cpu), 0.66 min (real)
+Done in 0.67 min (cpu), 0.67 min (real)

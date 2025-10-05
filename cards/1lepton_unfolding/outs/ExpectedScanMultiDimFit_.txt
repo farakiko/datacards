@@ -1,0 +1,5 @@
+ <<< Combine >>> 
+ <<< v10.0.1 >>>
+Invalid options: the required argument for option '--parameters' is missing
+Invalid options: the required argument for option '--parameters' is missing
+Use combine --help to get a list of all the allowed options

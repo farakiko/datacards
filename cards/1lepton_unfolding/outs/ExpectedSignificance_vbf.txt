@@ -11,5 +11,5 @@ Set Default Value of Parameter r_qqH_mjj_1000_inf To : 1
 
 
  -- Significance -- 
-Significance: 0.944388
+Significance: 0.943087
 Done in 0.04 min (cpu), 0.04 min (real)
