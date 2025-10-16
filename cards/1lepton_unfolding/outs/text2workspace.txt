@@ -20,6 +20,7 @@ Will scale  VBF/singletop  by  1
 Will scale  VBF/zjets  by  1
 Will scale  VBF/diboson  by  1
 Will scale  VBF/ewkvjets  by  1
+Will scale  VBF/fake  by  1
 Will scale  ggFpt250to350/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt250to350/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  ggFpt250to350/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -32,6 +33,7 @@ Will scale  ggFpt250to350/singletop  by  1
 Will scale  ggFpt250to350/zjets  by  1
 Will scale  ggFpt250to350/diboson  by  1
 Will scale  ggFpt250to350/ewkvjets  by  1
+Will scale  ggFpt250to350/fake  by  1
 Will scale  ggFpt350to500/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt350to500/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  ggFpt350to500/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -45,6 +47,7 @@ Will scale  ggFpt350to500/singletop  by  1
 Will scale  ggFpt350to500/zjets  by  1
 Will scale  ggFpt350to500/diboson  by  1
 Will scale  ggFpt350to500/ewkvjets  by  1
+Will scale  ggFpt350to500/fake  by  1
 Will scale  ggFpt500toInf/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt500toInf/ggH_hww_300_450  by  r_ggH_pt300_450
 Will scale  ggFpt500toInf/ggH_hww_450_Inf  by  r_ggH_pt450_inf
@@ -57,6 +60,7 @@ Will scale  ggFpt500toInf/singletop  by  1
 Will scale  ggFpt500toInf/zjets  by  1
 Will scale  ggFpt500toInf/diboson  by  1
 Will scale  ggFpt500toInf/ewkvjets  by  1
+Will scale  ggFpt500toInf/fake  by  1
 Will scale  TopCR/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  TopCR/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  TopCR/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -70,6 +74,7 @@ Will scale  TopCR/singletop  by  1
 Will scale  TopCR/zjets  by  1
 Will scale  TopCR/diboson  by  1
 Will scale  TopCR/ewkvjets  by  1
+Will scale  TopCR/fake  by  1
 Will scale  WJetsCR/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  WJetsCR/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  WJetsCR/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -83,6 +88,7 @@ Will scale  WJetsCR/singletop  by  1
 Will scale  WJetsCR/zjets  by  1
 Will scale  WJetsCR/diboson  by  1
 Will scale  WJetsCR/ewkvjets  by  1
+Will scale  WJetsCR/fake  by  1
 Will scale  VBF/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  VBF/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  VBF/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -96,6 +102,7 @@ Will scale  VBF/singletop  by  1
 Will scale  VBF/zjets  by  1
 Will scale  VBF/diboson  by  1
 Will scale  VBF/ewkvjets  by  1
+Will scale  VBF/fake  by  1
 Will scale  ggFpt250to350/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt250to350/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  ggFpt250to350/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -108,6 +115,7 @@ Will scale  ggFpt250to350/singletop  by  1
 Will scale  ggFpt250to350/zjets  by  1
 Will scale  ggFpt250to350/diboson  by  1
 Will scale  ggFpt250to350/ewkvjets  by  1
+Will scale  ggFpt250to350/fake  by  1
 Will scale  ggFpt350to500/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt350to500/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  ggFpt350to500/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -121,6 +129,7 @@ Will scale  ggFpt350to500/singletop  by  1
 Will scale  ggFpt350to500/zjets  by  1
 Will scale  ggFpt350to500/diboson  by  1
 Will scale  ggFpt350to500/ewkvjets  by  1
+Will scale  ggFpt350to500/fake  by  1
 Will scale  ggFpt500toInf/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  ggFpt500toInf/ggH_hww_300_450  by  r_ggH_pt300_450
 Will scale  ggFpt500toInf/ggH_hww_450_Inf  by  r_ggH_pt450_inf
@@ -133,6 +142,7 @@ Will scale  ggFpt500toInf/singletop  by  1
 Will scale  ggFpt500toInf/zjets  by  1
 Will scale  ggFpt500toInf/diboson  by  1
 Will scale  ggFpt500toInf/ewkvjets  by  1
+Will scale  ggFpt500toInf/fake  by  1
 Will scale  TopCR/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  TopCR/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  TopCR/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -146,6 +156,7 @@ Will scale  TopCR/singletop  by  1
 Will scale  TopCR/zjets  by  1
 Will scale  TopCR/diboson  by  1
 Will scale  TopCR/ewkvjets  by  1
+Will scale  TopCR/fake  by  1
 Will scale  WJetsCR/qqH_hww_mjj_1000_Inf  by  r_qqH_mjj_1000_inf
 Will scale  WJetsCR/ggH_hww_200_300  by  r_ggH_pt200_300
 Will scale  WJetsCR/ggH_hww_300_450  by  r_ggH_pt300_450
@@ -159,3 +170,4 @@ Will scale  WJetsCR/singletop  by  1
 Will scale  WJetsCR/zjets  by  1
 Will scale  WJetsCR/diboson  by  1
 Will scale  WJetsCR/ewkvjets  by  1
+Will scale  WJetsCR/fake  by  1

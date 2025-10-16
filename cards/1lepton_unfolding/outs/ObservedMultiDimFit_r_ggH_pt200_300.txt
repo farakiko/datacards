@@ -11,7 +11,7 @@ Set Default Value of Parameter r_qqH_mjj_1000_inf To : 1
 >>> 0 out of 6 channels masked
 
 Doing initial fit: 
- POI: r_ggH_pt200_300= -6.11412 -> [-10,10]
+ POI: r_ggH_pt200_300= -6.12596 -> [-10,10]
 Point 0/100 r_ggH_pt200_300 = -9.9
 Point 1/100 r_ggH_pt200_300 = -9.7
 Point 2/100 r_ggH_pt200_300 = -9.5
@@ -112,4 +112,4 @@ Point 96/100 r_ggH_pt200_300 = 9.3
 Point 97/100 r_ggH_pt200_300 = 9.5
 Point 98/100 r_ggH_pt200_300 = 9.7
 Point 99/100 r_ggH_pt200_300 = 9.9
-Done in 0.64 min (cpu), 0.64 min (real)
+Done in 0.51 min (cpu), 0.51 min (real)
