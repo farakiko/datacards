@@ -6,11 +6,11 @@
 
 
  -- AsymptoticLimits ( CLs ) --
-Observed Limit: r < 0.9524
-Expected  2.5%: r < 0.6627
-Expected 16.0%: r < 0.9243
-Expected 50.0%: r < 1.3906
-Expected 84.0%: r < 2.1833
-Expected 97.5%: r < 3.3818
+Observed Limit: r < 1.0085
+Expected  2.5%: r < 0.6311
+Expected 16.0%: r < 0.8802
+Expected 50.0%: r < 1.3242
+Expected 84.0%: r < 2.0738
+Expected 97.5%: r < 3.2028
 
-Done in 1.05 min (cpu), 1.05 min (real)
+Done in 0.98 min (cpu), 0.98 min (real)

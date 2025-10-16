@@ -251,19 +251,6 @@ if [ $nllscan = 1 ]; then
 fi
 
 
-if [ $bfit = 1 ]; then
-
-    echo "Fit Diagnostics: b-only fit"
-    combine -M FitDiagnostics -d ${wsm}.root \
-    -m 125 --rMin -10 --rMax 10 -n Unblinded_bfit --ignoreCovWarning --cminDefaultMinimizerStrategy 0 \
-    --saveShapes --saveNormalizations --saveWithUncertainties --saveOverallShapes 2>&1 | tee $outsdir/FitDiagnostics_Bfit.txt
-
-    echo "Fit Shapes"
-    PostFitShapesFromWorkspace --dataset data_obs -w ${wsm}_bonly.root --output FitShapesB.root -m 125 -f fitDiagnosticsUnblinded.root:fit_b --postfit --print
-
-fi
-
-
 if [ $dfit = 1 ]; then
     
     echo "Fit Diagnostics: s+b fit"
